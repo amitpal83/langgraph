@@ -1,0 +1,6 @@
+# Ignore Python virtual environment folders
+env/
+
+
+# Ignore Conda environment folders
+conda/
